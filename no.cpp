@@ -22,9 +22,9 @@
 nooo noooo nooooo nooooooooooo
 
     noooooo nooooooo noooooooooooo nooooooooooooo
-        noooooooooooooo
-            nooooo no noooooooo noooooooooooooooo "nnooooooooooooooooo\n" nooooooooooo
-                nooooo no noooooooo noooooooooooooooo "\nnooooooooooooooooo\n" nooooooooooo
-                    nooooo no noooooooo noooooooooooooooo "\nnooooooooooooooooo\n" nooooooooooo
-                        nooooo no nooooooooo.noooooooooo noooooooooooo nooooooooooooo nooooooooooo
-                            nooooooooooooooo
+    noooooooooooooo
+    nooooo no noooooooo noooooooooooooooo "nnooooooooooooooooo\n" nooooooooooo
+    nooooo no noooooooo noooooooooooooooo "\nnooooooooooooooooo\n" nooooooooooo
+    nooooo no noooooooo noooooooooooooooo "\nnooooooooooooooooo\n" nooooooooooo
+    nooooo no nooooooooo.noooooooooo noooooooooooo nooooooooooooo nooooooooooo
+nooooooooooooooo
