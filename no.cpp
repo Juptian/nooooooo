@@ -21,7 +21,7 @@
 
 nooo noooo nooooo nooooooooooo
 
-    noooooo nooooooo noooooooooooo nooooooooooooo
+noooooo nooooooo noooooooooooo nooooooooooooo
     noooooooooooooo
     nooooo no noooooooo noooooooooooooooo "nnooooooooooooooooo\n" nooooooooooo
     nooooo no noooooooo noooooooooooooooo "\nnooooooooooooooooo\n" nooooooooooo
